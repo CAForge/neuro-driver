@@ -1,0 +1,104 @@
+2026-04-03 22:56:26 | INFO     | ============================================================
+2026-04-03 22:56:26 | INFO     | ============================================================
+2026-04-03 22:56:26 | INFO     |   NEURO-DRIVE: Human-Centric Driver Monitoring System
+2026-04-03 22:56:26 | INFO     |   NEURO-DRIVE: Human-Centric Driver Monitoring System
+2026-04-03 22:56:26 | INFO     | ============================================================
+2026-04-03 22:56:26 | INFO     | ============================================================
+2026-04-03 22:56:26 | INFO     |   Source: 0 | Resolution: 1280×720
+2026-04-03 22:56:26 | INFO     |   Source: 0 | Resolution: 1280×720
+2026-04-03 22:56:29 | INFO     | [API] Starting REST API on 0.0.0.0:8000
+2026-04-03 22:56:29 | INFO     | [API] Starting REST API on 0.0.0.0:8000
+2026-04-03 22:56:29 | INFO     | [API] Starting REST API on 0.0.0.0:8000
+2026-04-03 22:56:42 | INFO     |   Camera opened: actual resolution 1280×720
+2026-04-03 22:56:42 | INFO     |   Camera opened: actual resolution 1280×720
+2026-04-03 22:56:42 | INFO     |   Camera opened: actual resolution 1280×720
+2026-04-05 00:19:48 | INFO     | ============================================================
+2026-04-05 00:19:48 | INFO     | ============================================================
+2026-04-05 00:19:48 | INFO     |   NEURO-DRIVE: Human-Centric Driver Monitoring System
+2026-04-05 00:19:48 | INFO     |   NEURO-DRIVE: Human-Centric Driver Monitoring System
+2026-04-05 00:19:48 | INFO     | ============================================================
+2026-04-05 00:19:48 | INFO     | ============================================================
+2026-04-05 00:19:48 | INFO     |   Source: 0 | Resolution: 1280×720
+2026-04-05 00:19:48 | INFO     |   Source: 0 | Resolution: 1280×720
+2026-04-05 00:19:50 | INFO     | [API] Starting REST API on 0.0.0.0:8000
+2026-04-05 00:19:50 | INFO     | [API] Starting REST API on 0.0.0.0:8000
+2026-04-05 00:19:50 | INFO     | [API] Starting REST API on 0.0.0.0:8000
+2026-04-05 00:19:57 | INFO     |   Camera opened: actual resolution 1280×720
+2026-04-05 00:19:57 | INFO     |   Camera opened: actual resolution 1280×720
+2026-04-05 00:19:57 | INFO     |   Camera opened: actual resolution 1280×720
+2026-04-05 18:49:38 | INFO     | ============================================================
+2026-04-05 18:49:38 | INFO     | ============================================================
+2026-04-05 18:49:38 | INFO     |   NEURO-DRIVE: Human-Centric Driver Monitoring System
+2026-04-05 18:49:38 | INFO     |   NEURO-DRIVE: Human-Centric Driver Monitoring System
+2026-04-05 18:49:38 | INFO     | ============================================================
+2026-04-05 18:49:38 | INFO     | ============================================================
+2026-04-05 18:49:38 | INFO     |   Source: 0 | Resolution: 1280×720
+2026-04-05 18:49:38 | INFO     |   Source: 0 | Resolution: 1280×720
+2026-04-05 18:49:41 | INFO     | [API] Starting REST API on 0.0.0.0:8000
+2026-04-05 18:49:41 | INFO     | [API] Starting REST API on 0.0.0.0:8000
+2026-04-05 18:49:41 | INFO     | [API] Starting REST API on 0.0.0.0:8000
+2026-04-05 18:49:48 | INFO     |   Camera opened: actual resolution 1280×720
+2026-04-05 18:49:48 | INFO     |   Camera opened: actual resolution 1280×720
+2026-04-05 18:49:48 | INFO     |   Camera opened: actual resolution 1280×720
+2026-04-05 18:52:35 | INFO     | ============================================================
+2026-04-05 18:52:35 | INFO     | ============================================================
+2026-04-05 18:52:35 | INFO     |   NEURO-DRIVE: Human-Centric Driver Monitoring System
+2026-04-05 18:52:35 | INFO     |   NEURO-DRIVE: Human-Centric Driver Monitoring System
+2026-04-05 18:52:35 | INFO     | ============================================================
+2026-04-05 18:52:35 | INFO     | ============================================================
+2026-04-05 18:52:35 | INFO     |   Source: 0 | Resolution: 1280×720
+2026-04-05 18:52:35 | INFO     |   Source: 0 | Resolution: 1280×720
+2026-04-05 18:52:37 | INFO     | [API] Starting REST API on 0.0.0.0:8000
+2026-04-05 18:52:37 | INFO     | [API] Starting REST API on 0.0.0.0:8000
+2026-04-05 18:52:37 | INFO     | [API] Starting REST API on 0.0.0.0:8000
+2026-04-05 18:52:45 | INFO     |   Camera opened: actual resolution 1280×720
+2026-04-05 18:52:45 | INFO     |   Camera opened: actual resolution 1280×720
+2026-04-05 18:52:45 | INFO     |   Camera opened: actual resolution 1280×720
+2026-04-05 19:01:44 | INFO     | ============================================================
+2026-04-05 19:01:44 | INFO     | ============================================================
+2026-04-05 19:01:44 | INFO     |   NEURO-DRIVE: Human-Centric Driver Monitoring System
+2026-04-05 19:01:44 | INFO     |   NEURO-DRIVE: Human-Centric Driver Monitoring System
+2026-04-05 19:01:44 | INFO     | ============================================================
+2026-04-05 19:01:44 | INFO     | ============================================================
+2026-04-05 19:01:44 | INFO     |   Source: 0 | Resolution: 1280×720
+2026-04-05 19:01:44 | INFO     |   Source: 0 | Resolution: 1280×720
+2026-04-05 19:01:44 | WARNING  | [API] uvicorn/fastapi not installed. REST API disabled.
+2026-04-05 19:01:44 | WARNING  | [API] uvicorn/fastapi not installed. REST API disabled.
+2026-04-05 19:01:55 | INFO     |   Camera opened: actual resolution 1280×720
+2026-04-05 19:01:55 | INFO     |   Camera opened: actual resolution 1280×720
+2026-04-05 19:04:04 | INFO     | ============================================================
+2026-04-05 19:04:04 | INFO     | ============================================================
+2026-04-05 19:04:04 | INFO     |   NEURO-DRIVE: Human-Centric Driver Monitoring System
+2026-04-05 19:04:04 | INFO     |   NEURO-DRIVE: Human-Centric Driver Monitoring System
+2026-04-05 19:04:04 | INFO     | ============================================================
+2026-04-05 19:04:04 | INFO     | ============================================================
+2026-04-05 19:04:04 | INFO     |   Source: 0 | Resolution: 1280×720
+2026-04-05 19:04:04 | INFO     |   Source: 0 | Resolution: 1280×720
+2026-04-05 19:04:04 | WARNING  | [API] uvicorn/fastapi not installed. REST API disabled.
+2026-04-05 19:04:04 | WARNING  | [API] uvicorn/fastapi not installed. REST API disabled.
+2026-04-05 19:04:13 | INFO     |   Camera opened: actual resolution 1280×720
+2026-04-05 19:04:13 | INFO     |   Camera opened: actual resolution 1280×720
+2026-04-05 19:04:13 | INFO     |   Press 'q' to quit | 'c' to recalibrate | 's' for stats
+2026-04-05 19:04:13 | INFO     |   Press 'q' to quit | 'c' to recalibrate | 's' for stats
+2026-04-05 19:04:13 | INFO     | ============================================================
+2026-04-05 19:04:13 | INFO     | ============================================================
+2026-04-05 19:04:17 | WARNING  | [ALERT] *** NO_FACE *** | fatigue=0.062 | session=4s
+2026-04-05 19:04:17 | WARNING  | [ALERT] *** NO_FACE *** | fatigue=0.062 | session=4s
+2026-04-05 19:04:19 | INFO     | [Calibration] EAR baseline=0.249  threshold=0.187
+2026-04-05 19:04:19 | INFO     | [Calibration] EAR baseline=0.249  threshold=0.187
+2026-04-05 19:04:19 | INFO     | [Calibration] MAR baseline=0.018  threshold=0.046
+2026-04-05 19:04:19 | INFO     | [Calibration] MAR baseline=0.018  threshold=0.046
+2026-04-05 19:04:19 | INFO     | [Fatigue] Using calibrated thresholds: EAR=0.187, MAR=0.046
+2026-04-05 19:04:19 | INFO     | [Fatigue] Using calibrated thresholds: EAR=0.187, MAR=0.046
+2026-04-05 19:04:19 | INFO     | [Main] Calibration applied.
+2026-04-05 19:04:19 | INFO     | [Main] Calibration applied.
+2026-04-05 19:04:22 | WARNING  | [ALERT] *** YAWNING *** | fatigue=0.323 | session=9s
+2026-04-05 19:04:22 | WARNING  | [ALERT] *** YAWNING *** | fatigue=0.323 | session=9s
+2026-04-05 19:04:24 | INFO     | [Fatigue] Yawn detected! Total in window: 1
+2026-04-05 19:04:24 | INFO     | [Fatigue] Yawn detected! Total in window: 1
+2026-04-05 19:04:28 | WARNING  | [ALERT] *** DROWSY *** | fatigue=0.434 | session=15s
+2026-04-05 19:04:28 | WARNING  | [ALERT] *** DROWSY *** | fatigue=0.434 | session=15s
+2026-04-05 19:04:39 | INFO     | Interrupted by user (Ctrl+C).
+2026-04-05 19:04:39 | INFO     | Interrupted by user (Ctrl+C).
+2026-04-05 19:04:39 | INFO     | Session complete. Final stats: {'session_duration_s': 26, 'total_alerts': 3, 'total_yawns': 1, 'perclos': 0.163, 'fatigue_score': 0.3109}
+2026-04-05 19:04:39 | INFO     | Session complete. Final stats: {'session_duration_s': 26, 'total_alerts': 3, 'total_yawns': 1, 'perclos': 0.163, 'fatigue_score': 0.3109}

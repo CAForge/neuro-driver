@@ -1,0 +1,30 @@
+# Neuro-Drive: Human-Centric Driver Monitoring System
+# Core requirements
+
+# ── Computer Vision ──────────────────────────────────────────────────────────
+opencv-python>=4.8.0
+mediapipe>=0.10.3
+numpy>=1.24.0
+
+# ── Audio Alert ──────────────────────────────────────────────────────────────
+sounddevice>=0.4.6    # Cross-platform audio (pip install sounddevice)
+# On Linux, also install: sudo apt-get install libportaudio2
+
+# ── REST API ─────────────────────────────────────────────────────────────────
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+python-multipart>=0.0.6
+
+# ── Optional: OpenVINO Optimization ─────────────────────────────────────────
+# Uncomment if using Intel hardware:
+# openvino>=2023.2.0
+# openvino-dev>=2023.2.0
+
+# ── Optional: Streamlit Dashboard ───────────────────────────────────────────
+# streamlit>=1.28.0
+# plotly>=5.17.0
+# pandas>=2.1.0
+
+# ── Testing ──────────────────────────────────────────────────────────────────
+pytest>=7.4.0
+pytest-cov>=4.1.0
